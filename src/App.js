@@ -1,7 +1,7 @@
 import './App.css';
-import Title from './Title';
-import POPOSList from './POPOSList';
-import Footer from './Footer';
+import Title from './Title/Title';
+import POPOSList from './POPOSList/POPOSList';
+import Footer from './footer/Footer';
 
 function App() {
   return (
